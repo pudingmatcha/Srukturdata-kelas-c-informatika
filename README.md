@@ -1,0 +1,1 @@
+# Srukturdata-kelas-c-informatika
