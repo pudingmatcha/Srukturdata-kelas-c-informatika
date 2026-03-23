@@ -25,3 +25,6 @@ Setelah dibuatnya perhitungan terhadap nilai mahasiswa dapat disimpulkan juga da
 </p>
 
 Berdasarkan grafik yang ditampilkan, dapat dilihat bahwa nilai tertinggi yang diperoleh mahasiswa adalah 95, sedangkan nilai terendah adalah 50. Rata-rata nilai mahasiswa adalah 75,9, yang menunjukkan bahwa secara umum nilai mahasiswa cukup baik. Dari total 10 mahasiswa, terdapat 9 mahasiswa yang lulus dan 1 mahasiswa yang tidak lulus.
+
+# Dibuat oleh : Pande Putu Vidya Reswara
+# NIM : 2501010064
