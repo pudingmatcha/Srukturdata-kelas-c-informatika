@@ -13,3 +13,15 @@ Setelah semua nilai dimasukkan, program mencari nilai tertinggi menggunakan fung
 </p>
 
 Secara keseluruhan, kompleksitas waktu dari program ini adalah O(n) karena sebagian besar proses utama seperti input nilai, mencari nilai maksimum, minimum, menghitung rata-rata, dan menentukan kelulusan harus memeriksa seluruh data nilai mahasiswa. Artinya, semakin banyak data mahasiswa yang dimasukkan, maka waktu yang dibutuhkan program juga akan bertambah secara sebanding (linear) dengan jumlah data tersebut.
+
+Setelah dibuatnya perhitungan terhadap nilai mahasiswa dapat disimpulkan juga dalam bentuk grafik sebagai berikut:
+
+<p align="center">
+  <img src="https://github.com/pudingmatcha/Srukturdata-kelas-c-informatika/blob/main/gambar/Screenshot%202026-03-23%20140248.png" width="750">
+</p>
+
+<p align="center">
+  <img src="https://github.com/pudingmatcha/Srukturdata-kelas-c-informatika/blob/main/gambar/Screenshot%202026-03-23%20140248.png" width="750">
+</p>
+
+Berdasarkan grafik yang ditampilkan, dapat dilihat bahwa nilai tertinggi yang diperoleh mahasiswa adalah 95, sedangkan nilai terendah adalah 50. Rata-rata nilai mahasiswa adalah 75,9, yang menunjukkan bahwa secara umum nilai mahasiswa cukup baik. Dari total 10 mahasiswa, terdapat 9 mahasiswa yang lulus dan 1 mahasiswa yang tidak lulus.
